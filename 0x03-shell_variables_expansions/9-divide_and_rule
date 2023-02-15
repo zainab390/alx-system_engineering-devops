@@ -1,2 +1,2 @@
 #!/bin/bash
-IIIecho $((BREATH**LOVE))
+echo $((POWER / DIVINE))
